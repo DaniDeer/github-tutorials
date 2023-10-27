@@ -6,7 +6,7 @@ Collection of tutorials around various GitHub topics I found on the internet.
 
 
 ### Introduction to GitHub Project Boards
-<a href="https://www.youtube.com/watch?v=idZyqNIrt84" target="blank">
+<a href="https://www.youtube.com/watch?v=idZyqNIrt84" >
  <!---
  <img src="http://img.youtube.com/vi/idZyqNIrt84/default.jpg" alt="Watch the video" width="240" height="180" border="10" />
     hqdefault.jpg <- high quality
