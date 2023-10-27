@@ -19,4 +19,4 @@ Collection of tutorials around various GitHub topics I found on the internet.
 </a>
 
 
-![Alt Text](http://www.youtube.com/watch?feature=player_embedded&v=idZyqNIrt84)
+![Alt Text](https://www.youtube.com/watch?v=idZyqNIrt84)
