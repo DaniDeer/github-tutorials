@@ -19,11 +19,4 @@ Collection of tutorials around various GitHub topics I found on the internet.
 </a>
 
 
-
-
-
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idZyqNIrt84" frameborder="0" allowfullscreen></iframe>
+![Alt Text](http://www.youtube.com/watch?feature=player_embedded&v=idZyqNIrt84)
