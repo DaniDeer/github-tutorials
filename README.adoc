@@ -17,6 +17,8 @@ https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-
 
 == GitHub Projects
 
+Watch the following videos to learn more about GitHub projects.
+
 === Introduction to GitHub Project Boards
 
 +++
