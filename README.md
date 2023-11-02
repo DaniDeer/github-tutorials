@@ -1,6 +1,12 @@
 <h1 align="center"> GitHub Tutorials </h1> 
 <p> Collection of tutorials around various GitHub topics I found on the internet. </p>
 
+<h2> How to Contribute to an Open-Source Project on GitHub </h2>
+
+<p>
+     <a href="https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github">Kent C. Dodds - How to Contribute to an Open Source Project on GitHub - </a> 
+</p>
+
 <h2> GitHub Projects </h2>
 
 <p> Watch the following videos: </p>
