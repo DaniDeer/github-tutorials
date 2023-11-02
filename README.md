@@ -4,7 +4,14 @@
 <h2> How to Contribute to an Open-Source Project on GitHub </h2>
 
 <p>
-     <a href="https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github">Kent C. Dodds - How to Contribute to an Open Source Project on GitHub - </a> 
+     <a href="https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github">Kent C. Dodds - How to Contribute to an Open Source Project on GitHub</a>
+     <ul>
+          <li>Install Git SCM and Authenticate with GitHub using SSH</li>
+          <li>Fork and Clone a GitHub Repository</li>
+          <li>How to create and collaborate on a Pull Request</li>
+          <li>How to rebase a git Pull Request branch</li>
+          <li>Squash multiple git commits</li>
+     </ul> 
 </p>
 
 <h2> GitHub Projects </h2>
