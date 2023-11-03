@@ -33,6 +33,17 @@ https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-
    </a>
 +++
 
+.Git Hidden Gems
+* Pretty Logs
+* Pretty Diffs
+* Staging
+* Searching
+* Automation
+* Dot Notation
+* Rebase
+* Reflog
+* ReReRe
+
 There is a whole repo on GitHub dedicated to tips and tricks: https://github.com/git-tips/tips[git-tips/tips]
 
 https://blog.devgenius.io/10-advanced-git-techniques-every-developer-should-know-9eba2824ea6b[Blog: Prateek Kumar - 10 Advanced Git Techniques Every Developer Should Know]
