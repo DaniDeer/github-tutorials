@@ -37,6 +37,12 @@ There is a whole repo on GitHub dedicated to tips and tricks: https://github.com
 
 https://blog.devgenius.io/10-advanced-git-techniques-every-developer-should-know-9eba2824ea6b[Blog: Prateek Kumar - 10 Advanced Git Techniques Every Developer Should Know]
 
+https://sparkbox.com/foundry/category/version_control/page/2[SPARKBOX - Version Control]
+
+.Sandboxes from SPARKBOX
+* https://github.com/sparkbox/apprenticeship-adventures-in-git[apprenticeship-adventures-in-git]
+* https://github.com/sparkbox/advanced-techniques-in-git[advanced-techiques in git]
+
 == GitHub Projects
 
 Watch the following videos to learn more about GitHub projects.
