@@ -50,6 +50,12 @@ https://blog.devgenius.io/10-advanced-git-techniques-every-developer-should-know
 
 https://sparkbox.com/foundry/category/version_control/page/2[SPARKBOX - Version Control]
 
+.Some interesting topics from SPARBOX
+* https://sparkbox.com/foundry/interactive_rebasing_curates_commits_to_speed_up_pull_request_review_process[Pull Requests Like a Pro with Commit Curation]
+* https://sparkbox.com/foundry/advanced_git_techniques_rebasing_interactive_rebase_with_git[Advanced Techniques in Git]
+* https://sparkbox.com/foundry/using_lerna_for_design_system_version_management[Version & Release Management]
+* https://sparkbox.com/foundry/use_git_commands_git_reset_git_log_git_reflog_git_cherry-pick_to_manage_shas[Git as a SHA manager - Git Log, Reflog, Cherry-pick]
+
 .Sandboxes from SPARKBOX
 * https://github.com/sparkbox/apprenticeship-adventures-in-git[apprenticeship-adventures-in-git]
 * https://github.com/sparkbox/advanced-techniques-in-git[advanced-techiques in git]
