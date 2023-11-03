@@ -2,6 +2,8 @@
 
 This is a collection around various GitHub topics I found on the internet.
 
+A general documentation of all the GitHub´s features can be found here: https://docs.github.com/[GitHub-Docs]
+
 == GitHub Basics
 
 === How to Contribute to an Open-Source Project on GitHub
@@ -18,6 +20,7 @@ https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-
 == GitHub Projects
 
 Watch the following videos to learn more about GitHub projects.
+There is also a documentation available: https://docs.github.com/en/issues/planning-and-tracking-with-projects[GitHub Docs - Planning and tracking with Projects]
 
 === Introduction to GitHub Project Boards
 
@@ -34,13 +37,25 @@ Watch the following videos to learn more about GitHub projects.
 === Adding Issues and Working with Issues on GitHub Project Boards
 
 +++
-<a href="https://www.youtube.com/watch?v=vxgd6TO4IfQ&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&index=3" >
+   <a href="https://www.youtube.com/watch?v=vxgd6TO4IfQ&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&index=3" >
        <img src="http://img.youtube.com/vi/vxgd6TO4IfQ/maxresdefault.jpg" alt="Adding Issues to GItHub Project Boards" width="200" border="10" />
    </a>
    <a href="https://www.youtube.com/watch?v=de_lazvBioE&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&index=4" >
       <img src="http://img.youtube.com/vi/de_lazvBioE/maxresdefault.jpg" alt="Working with Issues on GitHub Project Boards" width="200" border="10" />
    </a>
 +++
+
+==== Using Projects for feature planning
++++
+   <a href="https://www.youtube.com/watch?v=yFQ-p6wMS_Y" >
+       <img src="http://img.youtube.com/vi/yFQ-p6wMS_Y/maxresdefault.jpg" alt="Using Projects for feature planning" width="200" border="10" />
+   </a>
+   <a href="https://www.youtube.com/watch?v=qT0VMdx7vuI" >
+       <img src="http://img.youtube.com/vi/qT0VMdx7vuI/maxresdefault.jpg" alt="Using Projects for feature planning" width="200" border="10" />
+   </a>
++++
+
+There is also a documentation available, that covers GitHub Issues as a basic feature for planning and tracking work: https://docs.github.com/en/issues[GitHub Docs - GitHub Issues]
 
 === Adding Pull Requests and Working with Pull Requests on GitHub Project Boards
 
