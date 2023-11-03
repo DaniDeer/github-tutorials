@@ -4,7 +4,7 @@ This is a collection around various GitHub topics I found on the internet.
 
 A general documentation of all the GitHub´s features can be found here: https://docs.github.com/[GitHub-Docs]
 
-== GitHub Basics
+== Git & GitHub Basics
 
 === How to Contribute to an Open-Source Project on GitHub
 
@@ -16,6 +16,26 @@ https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-
 * How to create and collaborate on a Pull Request
 * How to rebase a git Pull Request branch
 * Squash multiple git commits
+
+=== Git & GitHub Bootcamps
+
++++
+   <a href="https://www.youtube.com/watch?v=RGOj5yH7evk&list=PLLJ1hZKyeCH1I8dP0UNTpWoIhsl6KpVbu" >
+       <img src="http://img.youtube.com/vi/RGOj5yH7evk/maxresdefault.jpg" alt="Git and GitHub Crash Course" width="200" border="10" />
+   </a>
++++
+
+=== Git & GitHub Hacks
+
++++
+   <a href="https://www.youtube.com/watch?v=uFrPgUjv_Y8" >
+       <img src="http://img.youtube.com/vi/uFrPgUjv_Y8/maxresdefault.jpg" alt="Git Hidden Gems - Enrico Campidoglio - Copenhagen DevFest 2023" width="200" border="10" />
+   </a>
++++
+
+There is a whole repo on GitHub dedicated to tips and tricks: https://github.com/git-tips/tips[git-tips/tips]
+
+https://blog.devgenius.io/10-advanced-git-techniques-every-developer-should-know-9eba2824ea6b[Blog: Prateek Kumar - 10 Advanced Git Techniques Every Developer Should Know]
 
 == GitHub Projects
 
