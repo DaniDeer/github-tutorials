@@ -6,6 +6,20 @@ A general documentation of all the GitHub´s features can be found here: https:/
 
 == Git & GitHub Basics
 
+=== Getting Started
+https://docs.github.com/en/get-started/quickstart/hello-world[GitHub-Docs - Getting Started]
+
+https://docs.github.com/en/get-started/quickstart/github-flow[GitHub-Docs - GitHub Flow]
+
+.GitHub Workflow
+* Create and use a repository
+* Start and manage new branch for your changes
+* Make changes to a file and push them to GitHub
+* Open a pull request and work on feedback from reviewers
+* Merge your branch into main and delete your branch
+
+https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources[GitHub-Docs - Git and GitHub Learning Resources]
+
 === How to Contribute to an Open-Source Project on GitHub
 
 https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github[Kent C. Dodds - How to Contribute to an Open Source Project on GitHub]
